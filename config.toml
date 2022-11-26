@@ -1,4 +1,4 @@
-baseURL = 'https://andrew.beer'
+baseURL = 'https://beersandrew.github.io'
 languageCode = 'en-us'
 title = 'Andy Beers'
 theme = 'ananke'
