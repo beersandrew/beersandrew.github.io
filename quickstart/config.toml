@@ -1,0 +1,4 @@
+baseURL = 'https://andrew.beer'
+languageCode = 'en-us'
+title = 'Andy Beers'
+theme = 'ananke'
